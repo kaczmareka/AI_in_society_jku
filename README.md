@@ -2,4 +2,5 @@
 ----------------------------------------------------------------------------------
 
 Topic: Influence of AI-powered Employee Surveillance on Society
+<br>
 Authors: Agata Kaczmarek, Ahmed Mansour, Nader Essam, Vojtech Vlcek & Zana Sobhani.
